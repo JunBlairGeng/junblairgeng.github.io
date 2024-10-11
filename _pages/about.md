@@ -9,12 +9,6 @@ redirect_from:
 
 Hi! I'm Jun. You can also call me Blair. I'm now a Graduate Research Assistant in the Department of Civil and Environmental Engineering at Stanford University, working with Prof. Ronaldo I. Borja.
 
-With a strong focus on seismic performance and nonlinear modeling of structures, Astudillo is passionate about Performance-Based Earthquake Engineering and Seismic Resilience. His current research centers on advancing the design of high-performing structures using strongback frames and force-limiting connections.
-
-He has gained valuable experience in numerical simulation and full-scale testing, including shake-table testing of a 4-story building at the E-Defense shake table in Japan.
-
-Beyond engineering, Bryam enjoys programming, playing soccer, and spending time with family and friends
-
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
