@@ -22,13 +22,13 @@ repository               : "JunBlairGeng/junblairgeng.github.io"
 author:
   # Biographic information
   avatar           : "profile photo.jpg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Jun (Blair) Geng 耿珺"
+  pronouns         : "he/him"  
+  bio              : "Ph.D. Student in computational geomechanics @ Stanford CEE"
+  location         : "Stanford, CA"
+  employer         : "Stanford University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jungeng@stanford.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
