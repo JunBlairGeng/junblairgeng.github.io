@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jun Geng"
+title                    : "Jun (Blair) Geng"
 title_separator          : "-"
-name                     : &name "Jun Geng"
+name                     : &name "Jun (Blair) Geng"
 description              : &description "personal discription"
-url                      : https://jungeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://junblairgeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JunBlairGeng/jungeng.github.io"
+repository               : "JunBlairGeng/junblairgeng.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
