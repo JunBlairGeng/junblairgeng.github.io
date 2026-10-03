@@ -9,14 +9,14 @@ redirect_from:
 
 ## About me
 
-I am a PhD student in Civil and Environmental Engineering at Stanford University, advised by Ronaldo I. Borja. My research develops smoothed particle hydrodynamics methods for large deformation problems in geomechanics. I apply these methods to tunnel and slope failure, fault rupture, and compaction bands in porous rock. I expect to complete my PhD in December 2026.
+Since September 2023, I have been a Ph.D. student in geomechanics at Stanford University, advised by Professor Ronaldo I. Borja. I defended my dissertation in July 2026 and expect to graduate in December 2026. My research focuses on implicit smoothed particle hydrodynamics (SPH) methods for large deformation modeling in geomechanics, aiming for stability, efficiency, and reliability.
+
+Before beginning my doctorate, I earned an M.S. in Structural Engineering from Stanford University and a B.Eng. in Structural Engineering from Jilin University.
+
 
 ## Research interests
 
-- Large deformation and meshfree computational methods
-- Tunnel and slope failure under uncertainty
-- Constitutive modeling and damage in geomaterials
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- Large deformation modeling
+- Meshfree computational methods
+- Uncertainty quantification
+- Scientific machine learning
