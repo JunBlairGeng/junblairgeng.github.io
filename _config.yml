@@ -21,7 +21,7 @@ repository               : "JunBlairGeng/junblairgeng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-new.png"
   name             : "Jun (Blair) Geng"
   pronouns         : "he/him"  
   bio              : "PhD candidate in computational geomechanics at Stanford University"
